@@ -1,0 +1,146 @@
+{
+  "1": [
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/index.htm",
+      "timestamp": 1749451761.754489
+    },
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=1&fenlei=256&rsv_pq=0xe16992fe082b017f&rsv_t=5a5e2Fl5yUYF90k60EiehasGf4oTb9GSBJB79NS7ukrWPZRzAECHihMuFqNe&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=1&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=442&rsv_sug4=442",
+      "timestamp": 1749451764.885842
+    },
+    {
+      "type": "click",
+      "selector": "//*[@id=\"su\"]",
+      "value": "",
+      "timestamp": 1749451764.8878868
+    },
+    {
+      "type": "wheel",
+      "selector": "//*[@id=\"container\"]",
+      "value": "-100",
+      "timestamp": 1749451765.922995
+    },
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://baike.baidu.com/item/1/31661",
+      "timestamp": 1749451770.0651853
+    }
+  ],
+  "打开boss": [
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/index.htm",
+      "timestamp": 1749452120.8302543
+    },
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=11&fenlei=256&rsv_pq=0x9f15074300435a68&rsv_t=59067SYorLdVfEgqon%2B0ySMwytceRH8yE4kpfm70%2BL4MoPRiMnDnG5IJd25y&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=2&rsv_sug1=2&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=447&rsv_sug4=447",
+      "timestamp": 1749452133.525898
+    },
+    {
+      "type": "click",
+      "selector": "//*[@id=\"su\"]",
+      "value": "",
+      "timestamp": 1749452133.52903
+    }
+  ],
+  "打开百度，搜索重庆邮电大学，进入重庆邮电大学官网": [
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/index.htm",
+      "timestamp": 1749453162.2207263
+    },
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6&fenlei=256&rsv_pq=0xc9e6dc380825da74&rsv_t=2b55bFdM79i42SEgzQb4F8xumbWJ0n3skzMa5vP0JfieHT9sSUXch7CM8DgX&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=7&rsv_sug1=6&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&prefixsug=%25E9%2587%258D%25E5%25BA%2586%25E9%2582%25AE%25E7%2594%25B5%25E5%25A4%25A7%25E5%25AD%25A6&rsp=5&inputT=1491&rsv_sug4=1492",
+      "timestamp": 1749453166.6090736
+    },
+    {
+      "type": "click",
+      "selector": "//*[@id=\"su\"]",
+      "value": "",
+      "timestamp": 1749453166.6120658
+    },
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.cqupt.edu.cn/",
+      "timestamp": 1749453170.1650648
+    }
+  ],
+  "111": [
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/index.htm",
+      "timestamp": 1749529331.5385654
+    },
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=111&fenlei=256&rsv_pq=0xc471e60700143f0a&rsv_t=63d37VDSdJXO%2BT7CRSFCk9kejumuRYCNTTLDO%2FFR6tuabn7Z1LLHeJMjZmIr&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=3&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&prefixsug=111&rsp=5&inputT=1126&rsv_sug4=1126",
+      "timestamp": 1749529334.5604107
+    },
+    {
+      "type": "click",
+      "selector": "//*[@id=\"su\"]",
+      "value": "",
+      "timestamp": 1749529334.5629086
+    },
+    {
+      "type": "navigate",
+      "selector": "",
+      "value": "https://baike.baidu.com/item/%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%AD%A6%E7%A7%91%E5%88%9B%E6%96%B0%E5%BC%95%E6%99%BA%E8%AE%A1%E5%88%92/10958837",
+      "timestamp": 1749529339.1374018
+    },
+    {
+      "type": "wheel",
+      "selector": "//*[@id=\"J-lemma-main-wrapper\"]/div[1]/div[1]/div[1]",
+      "value": "100",
+      "timestamp": 1749529339.6692526
+    }
+  ],
+  "yfy": [
+    {
+      "action": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/index.htm"
+    },
+    {
+      "action": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=23&fenlei=256&rsv_pq=0xe83e0c64000edb18&rsv_t=650aVsUTVuLkbbbibR7Ex8jyspbADaJ3lpFrqilveaKSI8I7u0GUdxzy9XEB&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=2&rsv_sug1=2&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&prefixsug=2%2526lt%253B&rsp=8&inputT=1035&rsv_sug4=1035"
+    },
+    {
+      "action": "click",
+      "selector": "//*[@id=\"su\"]",
+      "value": ""
+    }
+  ],
+  "yhgtr": [
+    {
+      "action": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/index.htm"
+    },
+    {
+      "action": "navigate",
+      "selector": "",
+      "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=12&fenlei=256&rsv_pq=0x951f3f1400119ea2&rsv_t=2167sxMfUpQt%2Bul%2BdbtN0XKwRTwRrVU7sRgd8rc6gAV8JB%2FM2zywVUlM7ANN&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=2&rsv_sug1=2&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=472&rsv_sug4=472"
+    },
+    {
+      "action": "click",
+      "selector": "//*[@id=\"su\"]",
+      "value": ""
+    }
+  ]
+}
