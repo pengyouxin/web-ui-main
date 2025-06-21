@@ -1,0 +1,370 @@
+{
+    "b1": [
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/index.htm"
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=boss&fenlei=256&rsv_pq=0xd0743ac7005da96b&rsv_t=b4769PGmS1slAheTl5LlsLsoxzQveIozSYHGZPsXa0tGr53KFxskuFtH8mRt&rqlang=en&rsv_dl=ih_0&rsv_enter=1&rsv_sug3=1&rsv_sug1=1&rsv_sug7=001&rsv_sug2=1&rsv_btype=t&rsp=0&rsv_sug9=es_2_1&rsv_sug4=2479&rsv_sug=4"
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/sem/10.html?sid=sem_pz_bdpc_dasou_title"
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap\"][(2)]/div[@class=\"boss-sign-form\"][(1)]/div[@class=\"sms-form-wrapper\"][(2)]",
+            "value": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap shake\"][(2)]/div[@class=\"boss-sign-form\"][(1)]/div[@class=\"sms-form-wrapper\"][(2)]",
+            "value": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/index"
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/recommend"
+        }
+    ],
+    "b2": [
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/index.htm"
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "b"
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "bo's's"
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=boss&fenlei=256&rsv_pq=0x8eba7dd70060068f&rsv_t=f631zxXoM61IO3vC4d5UF37ggXKhqmr2RwNu1qAPEixQ3VOhkhx4K%2BBHYH5B&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_sug3=6&rsv_sug1=6&rsv_sug7=101&rsv_sug2=0&rsv_btype=t&inputT=811&rsv_sug4=1434&rsv_sug=2"
+        },
+        {
+            "action": "click",
+            "selector": "//*[@id=\"su\"]",
+            "value": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "boss"
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/index"
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/recommend"
+        },
+        {
+            "action": "click",
+            "selector": "//*[@id=\"wrap\"]/div[@class=\"side-wrap\"][(1)]/div[@class=\"menu-list\"][(1)]/dl[@class=\"menu-recommend\"][(2)]/dt[1]/a[@class=\"router-link-active\"][(1)]",
+            "value": ""
+        }
+    ],
+    "11": [
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/index.htm",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "b",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "bo's",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "boss4",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "boss",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=boss&fenlei=256&rsv_pq=0x9355d0c50068fe2d&rsv_t=dc9aQhY3TZQUdiJscMYjevqpHMGZ%2BO98G%2BEuoKD1SOjvfV3PPFK51q7iWwzY&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=7&rsv_sug1=7&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&prefixsug=boss&rsp=4&inputT=2397&rsv_sug4=3510",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//*[@id=\"su\"]",
+            "value": "",
+            "text": "",
+            "class_name": "bg s_btn",
+            "id": "su"
+        },
+        {
+            "action": "click",
+            "selector": "//*[@id=\"m6010113867_canvas\"]/div[@class=\"new-pmd c-container tenon_pc_material-left\"][(1)]/div[@class=\"tenon_pc_comp_content_container  c-border\"][(1)]/div[@class=\"tenon_pc_comp_wrapper\"][(1)]",
+            "value": "",
+            "text": "BOSS直聘——找工作，上BOSS直聘，直接谈！\n        \n      \n    \n  \n      \n    \n      \n        官方",
+            "class_name": "tenon_pc_comp_wrapper",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/sem/10.html?sid=sem_pz_bdpc_dasou_title",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/index",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/recommend",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//*[@id=\"wrap\"]/div[@class=\"side-wrap\"][(1)]/div[@class=\"menu-list\"][(1)]/dl[@class=\"menu-recommend\"][(2)]/dt[1]/a[@class=\"router-link-active\"][(1)]",
+            "value": "",
+            "text": "推荐牛人",
+            "class_name": "router-link-active",
+            "id": ""
+        }
+    ],
+    "lmy": [
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/index.htm",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "c",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "c'q",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "bo",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "bo's's",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "bossz",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "bosszhi",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "bosszhi'p",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=boss%E7%9B%B4%E8%81%98&fenlei=256&rsv_pq=0xbb432bf6013c59f5&rsv_t=2d03sziHo8xSbVtMSOwzGdDBhoswE9Dowzb1%2BDcSm8jRcHG%2FkLBlX%2FOMmzaY&rqlang=en&rsv_enter=1&rsv_dl=tb&rsv_sug3=14&rsv_sug1=12&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=5431&rsv_sug4=6319",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//*[@id=\"su\"]",
+            "value": "",
+            "text": "",
+            "class_name": "bg s_btn",
+            "id": "su"
+        },
+        {
+            "action": "input",
+            "selector": "//*[@id=\"kw\"]",
+            "value": "boss直聘",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/sem/10.html?sid=sem_pz_bdpc_dasou_title",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap\"][(2)]/div[@class=\"boss-sign-form\"][(1)]/div[@class=\"boss-btn-switch boss-phone-switch\"][(1)]",
+            "value": "",
+            "text": "手机号注册在这里",
+            "class_name": "boss-btn-switch boss-phone-switch",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap\"][(2)]/div[@class=\"boss-sign-form\"][(1)]",
+            "value": "",
+            "text": "手机号注册在这里 微信扫一扫快速注册请用微信“扫一扫”扫描上方二维码进入快捷注册验证码登录/注册",
+            "class_name": "boss-sign-form",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]",
+            "value": "",
+            "text": "海量优质人才，在线约面找工作，上BOSS直聘直接谈 手机号注册在这里 微信扫一扫快速注册请用微信“扫一扫”扫描上方二维码进入快捷注册验证码登录/注册",
+            "class_name": "container",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap shake\"][(2)]/div[@class=\"boss-sign-form\"][(1)]",
+            "value": "",
+            "text": "手机号注册在这里 微信扫一扫快速注册请用微信“扫一扫”扫描上方二维码进入快捷注册验证码登录/注册",
+            "class_name": "boss-sign-form",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap shake\"][(2)]/div[@class=\"boss-sign-form\"][(1)]/div[@class=\"boss-btn-switch\"][(1)]",
+            "value": "",
+            "text": "微信快速注册在这里",
+            "class_name": "boss-btn-switch",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap shake\"][(2)]/div[@class=\"boss-sign-form\"][(1)]/div[@class=\"sms-form-wrapper\"][(2)]",
+            "value": "",
+            "text": "一键注册BOSS直聘首次验证通过即注册BOSS直聘账号我要找工作我要招聘+86+86中国大陆非中国大陆手机号发送验证码注册已有账号登录已阅读并同意BOSS直聘 《用户协议》《隐私政策》，允许BOSS直聘统一管理本人账号信息",
+            "class_name": "sms-form-wrapper",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap shake\"][(2)]/div[@class=\"boss-sign-form\"][(1)]/div[@class=\"sms-form-wrapper\"][(2)]",
+            "value": "",
+            "text": "一键注册BOSS直聘首次验证通过即注册BOSS直聘账号我要找工作我要招聘+86+86中国大陆非中国大陆手机号发送验证码注册已有账号登录已阅读并同意BOSS直聘 《用户协议》《隐私政策》，允许BOSS直聘统一管理本人账号信息",
+            "class_name": "sms-form-wrapper",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//body/div[@class=\"sem10\"][(1)]/div[@class=\"layout\"][(1)]/div[@class=\"top-wrap\"][(2)]/div[@class=\"container\"][(1)]/div[@class=\"sign-wrap shake\"][(2)]/div[@class=\"boss-sign-form\"][(1)]/div[@class=\"sms-form-wrapper\"][(2)]",
+            "value": "",
+            "text": "一键注册BOSS直聘首次验证通过即注册BOSS直聘账号我要找工作我要招聘+86+86中国大陆非中国大陆手机号发送验证码注册已有账号登录已阅读并同意BOSS直聘 《用户协议》《隐私政策》，允许BOSS直聘统一管理本人账号信息",
+            "class_name": "sms-form-wrapper",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/index",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "navigate",
+            "selector": "",
+            "value": "https://www.zhipin.com/web/chat/search",
+            "text": "",
+            "class_name": "",
+            "id": ""
+        },
+        {
+            "action": "click",
+            "selector": "//*[@id=\"wrap\"]/div[@class=\"side-wrap\"][(1)]/div[@class=\"menu-list\"][(1)]/dl[@class=\"menu-geeksearch\"][(3)]/dt[1]/a[@class=\"router-link-active\"][(1)]",
+            "value": "",
+            "text": "搜索牛人",
+            "class_name": "router-link-active",
+            "id": ""
+        }
+    ]
+}
